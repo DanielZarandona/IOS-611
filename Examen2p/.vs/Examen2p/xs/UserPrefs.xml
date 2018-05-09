@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{13C358CE-29AE-4A87-91D3-A0E173B929BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Examen2p/ViewController.cs">
+    <Files>
+      <File FileName="Examen2p/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Examen2p/MyTableViewCell.cs" Line="29" Column="10" />
+      <File FileName="Examen2p/ViewController.cs" Line="110" Column="87" />
+      <File FileName="Examen2p/ViewController.designer.cs" Line="27" Column="1" />
+      <File FileName="Examen2p/linQtoTwitter.cs" Line="8" Column="19" />
+      <File FileName="Examen2p/MyTableViewCell.designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Examen2p PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B9AC3673-BDF5-4EB5-B3FB-EA006906B5F2">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Examen2p>
+</Properties>
